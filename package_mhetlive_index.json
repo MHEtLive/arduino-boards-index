@@ -16,7 +16,7 @@
           "category": "MH-ET LIVE",
           "url": "https://github.com/MHEtLive/MHEtLiveArduino/releases/download/1.0.0/mhetlive-avr-1.0.0.zip",
           "archiveFileName": "mhetlive-avr-1.0.0.zip",
-          "checksum": "SHA-256:4b130698e6e33dc5ce14c70233bd4eaa4418bc204ea91c884d7b38a7ccd713b6",
+          "checksum": "SHA-256:df6d0d3c304a384f27f6d0a90806fe1a35cdc38512cc5ac05fbc579c39991815",
           "size": "167117",
           "help": {
             "online": "https://github.com/MHEtLive/MHEtLive-Boards/issues"
